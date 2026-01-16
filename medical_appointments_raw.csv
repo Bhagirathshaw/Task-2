@@ -1,0 +1,7 @@
+Age,Gender,Scholarship,Hypertension,NoShow
+25.0,F,0.0,0.0,No
+60.0,M,1.0,1.0,Yes
+,F,0.0,0.0,No
+45.0,,0.0,1.0,No
+30.0,M,,0.0,
+,F,1.0,,Yes

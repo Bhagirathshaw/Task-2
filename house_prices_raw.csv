@@ -1,0 +1,7 @@
+LotArea,OverallQual,YearBuilt,Neighborhood,SalePrice
+8450.0,7.0,2003.0,CollgCr,208500.0
+9600.0,6.0,1976.0,Veenker,181500.0
+,7.0,2001.0,CollgCr,223500.0
+9550.0,,1915.0,,140000.0
+14260.0,8.0,,NoRidge,250000.0
+,5.0,2000.0,OldTown,
